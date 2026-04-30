@@ -94,7 +94,7 @@ Automated-Sales-Performance-Analytics/
 │
 ├── python/
 │   ├── main.py
-│   └── test.py
+│  
 │
 ├── report/
 │   └── brand_performance_report.pptx
